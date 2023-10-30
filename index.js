@@ -1,9 +1,12 @@
 const express = require('express');
+const cors = require('cors');
 const usuarioRouter = require('./src/routes/usuarioRouter');
 
 const app = express();
 const PORT = 4000;
 
+app.use(express.json());
+app.use(cors())
 app.use('/api/usuarios', usuarioRouter)
 
 app.listen(PORT, () => {
