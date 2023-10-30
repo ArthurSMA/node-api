@@ -1,0 +1,36 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Arnaldinho"
+        },
+        {
+            "id": 2,
+            "nome": "Emmanuel e o Gomes"
+        },
+        {
+            "id": 3,
+            "nome": "Claudio"
+        },
+        {
+            "id": 4,
+            "nome": "Bianacio"
+        },
+        {
+            "id": 5,
+            "nome": "Tavares"
+        },
+        {
+            "id": 6,
+            "nome": "Juliano"
+        },
+        {
+            "id": 7,
+            "nome": "Zezo Pinto"
+        },
+        {
+            "id": 8,
+            "nome": "Corde Coffe"
+        }
+    ]
+}
