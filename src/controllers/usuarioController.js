@@ -67,8 +67,6 @@ const deletarUsuario = (req, res) => {
     res.status(204).send();
 };
 
-//Adicionar Log de registro para cara requisição
-
 module.exports = {
     listarUsuarios,
     buscarUsuarioPorID,

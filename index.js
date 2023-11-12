@@ -1,10 +1,12 @@
 const express = require('express');
 const cors = require('cors');
 const usuarioRouter = require('./src/routes/usuarioRouter');
+const morganMiddleware = require('./src/config/morgan');
 
 const app = express();
 const PORT = 4000;
 
+app.use(morganMiddleware);
 app.use(express.json());
 app.use(cors())
 app.use('/api/usuarios', usuarioRouter)

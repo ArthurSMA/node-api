@@ -2,35 +2,103 @@
     "usuarios": [
         {
             "id": 1,
-            "nome": "Arnaldinho"
+            "nome": "Arnaldinho",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         },
         {
             "id": 2,
-            "nome": "Emmanuel e o Gomes"
+            "nome": "Emmanuel e o Gomes",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         },
         {
             "id": 3,
-            "nome": "Claudio"
+            "nome": "Vanderlei Aldaberto",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         },
         {
             "id": 4,
-            "nome": "Bianacio"
+            "nome": "Bianacio",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         },
         {
             "id": 5,
-            "nome": "Tavares"
+            "nome": "Tavares",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         },
         {
             "id": 6,
-            "nome": "Juliano"
+            "nome": "Juliano",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         },
         {
             "id": 7,
-            "nome": "Zezo Pinto"
+            "nome": "Zezo Pinto",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         },
         {
             "id": 8,
-            "nome": "Corde Coffe"
+            "nome": "Corde Coffe",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
+        },
+        {
+            "id": 9,
+            "nome": "Tchutchuca",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
+        },
+        {
+            "id": 10,
+            "nome": "Jordan",
+            "log": {
+                "timestamp": "2023-11-12T15:13:48.789Z",
+                "method": "GET",
+                "url": "/api/usuarios/",
+                "status": "200"
+            }
         }
     ]
 }
