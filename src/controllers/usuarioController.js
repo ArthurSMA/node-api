@@ -1,4 +1,5 @@
 const data = require('../data/usuario.json');
+const notification = require("../notification/mensagem");
 
 const listarUsuarios = (req, res) => {
     data.usuarios
@@ -65,6 +66,8 @@ const deletarUsuario = (req, res) => {
 
     res.status(204).send();
 };
+
+//Adicionar Log de registro para cara requisição
 
 module.exports = {
     listarUsuarios,
